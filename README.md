@@ -141,6 +141,6 @@
 <a href="https://www.facebook.com/Ian.bulatao.innovate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://instagram.com/iann_rssll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://github.com/ri-bulatao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/russell-bulatao" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="HridoyHazard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/russell-bulatao" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="HridoyHazard" height="30" width="40" /></a>
 
 ----------------------------------------------------------------------
