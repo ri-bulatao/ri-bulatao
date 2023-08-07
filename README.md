@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ri-bulatao&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ri-bulatao&langs_count=5&theme=tokyonight)]()
+
 <!--
 **ri-bulatao/ri-bulatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
