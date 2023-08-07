@@ -17,7 +17,7 @@
 
 - 📫 Feel free to reach me out **ian08bulatao@gmail.com**
 
--  Fun fact **Beans, roasted, brewed, blissful elixir! Coffe is Magic!**
+- ⚡ Fun fact **Beans, roasted, brewed, blissful elixir! Coffe is Magic!**
 <!--Intro end-->
 <br>
 <!--- stats & Trophy (start) -->
