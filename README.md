@@ -24,6 +24,8 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ri-bulatao&count_private=true&theme=tokyonight&showicons=true)]()       
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ff316c25-9e4e-4bad-8144-fb3bba75ee70" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--- stats (end) -->
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
