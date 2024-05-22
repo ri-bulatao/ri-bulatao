@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've a keen interest in cloud computing. **AWS is a beast!**
+- ☁️ I've a keen interest in cloud computing. 
   
-- 💬 Ask me about **AWS, React, Ionic, Laravel, MySQL, VueJS, Electron, and Clickup**
+- 💬 Ask me about **AWS, React, VueJS, Angular, Ionic, Laravel, MySQL, Electron, and Clickup**
 
 - 📫 Feel free to reach me out **ian08bulatao@gmail.com**
 
