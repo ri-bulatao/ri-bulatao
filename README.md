@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Agile-009B94?style=for-the-badge">
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge">
   <img src="https://img.shields.io/badge/Kanban-00AFD7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/XP-FF8200?style=for-the-badge">
   <img src="https://img.shields.io/badge/Waterfall-1D5BEF?style=for-the-badge">
 </span>
 
@@ -40,7 +41,6 @@
 <span>
   <img src="https://img.shields.io/badge/Scrum_Master-FF8200?style=for-the-badge">
   <img src="https://img.shields.io/badge/Project_Manager-FF5200?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Agile_Coach-00CC72?style=for-the-badge">
   <img src="https://img.shields.io/badge/Product_Owner-FF7100?style=for-the-badge">
   <img src="https://img.shields.io/badge/Developer-FFCC00?style=for-the-badge">
   <img src="https://img.shields.io/badge/Code_Reviewer-FF66CC?style=for-the-badge">
@@ -66,7 +66,6 @@
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
