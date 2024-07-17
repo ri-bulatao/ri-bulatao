@@ -2,8 +2,6 @@
 <!--horizontal divider(gradiant)-->
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Russell</h1>
-
-<h3 align="center">Like a symphony conductor and a virtuoso musician, project management orchestrates the development magic, turning chaos into a harmonious masterpiece. And I am in both!</h3>
 <br>
 <!--Intro start-->
 
